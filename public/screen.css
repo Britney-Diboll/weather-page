@@ -7,3 +7,13 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+.flex{
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+input{
+  min-width: 300px;
+}
